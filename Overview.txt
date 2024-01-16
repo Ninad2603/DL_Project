@@ -1,3 +1,0 @@
-Overview
-
-This Project is about Human Activity Classification in Videos
